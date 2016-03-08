@@ -26,6 +26,7 @@ img {
   padding: 10px 10px 0 10px;
   border-bottom: 2px #000000;
   background-image: url("../img/heading2.jpg");
+  background-position: center; 
 }
 
 .main-content {
@@ -33,6 +34,7 @@ img {
   width: 1500px;
   background-image: url("../img/background.jpg");
   background-size: 1500px;
+  background-repeat: no-repeat;
 }
 .footer {
   border-top: 2px #000000;
