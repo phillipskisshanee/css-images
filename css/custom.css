@@ -29,7 +29,9 @@ img {
   padding: 10px 10px 0 10px;
   border-bottom: 2px #000000;
   background-image: url("../img/heading2.jpg");
+  background-repeat: no-repeat;
   background-position: center; 
+  background-color: #7fae21;
 }
 
 .main-content {
