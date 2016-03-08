@@ -39,11 +39,11 @@ img {
 }
 
 .main-content {
-  margin-top: 300px;
   width: 1500px;
   background-image: url("../img/background.jpg");
   background-size: 1500px 1500px;
   background-repeat: no-repeat;
+  background-position: center 400px;
 }
 .footer {
   border-top: 2px #000000;
