@@ -23,6 +23,7 @@ img {
   left: 0;
   padding: 10px 10px 0 10px;
   border-bottom: 2px #000000;
+  background-image: url("heading2.jpg");
 }
 
 .footer {
