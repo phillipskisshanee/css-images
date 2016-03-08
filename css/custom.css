@@ -30,6 +30,7 @@ img {
 
 .main-content {
   margin-top: 400px;
+  width: 1500px;
   background-image: url("../img/background.jpg");
   background-size:;
 }
